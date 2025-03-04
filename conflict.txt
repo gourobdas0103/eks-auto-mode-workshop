@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is a bug fix update
+=======
+This is a feature update
+>>>>>>> feature-branch
+
+This is a feature update and bug fix update combined.
